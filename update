@@ -1,0 +1,50 @@
+
+{
+  "sdkkey": "QII74VqNKthnmHirpqqZGK8Jc9P2P_OFnlwWRqIbR8xlmupW0CDRrFC46xOyGXqe8dmt2pHG305BK9KusBV1SR",
+  "reward": "45fc0aab9c36c01e",
+  "banner": "98823f334818855d",
+  "inter": "f0572a7cf10873ae",
+
+  "banners": [
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "url": "https://google.com"
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "url": "https://youtube.com"
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "url": "https://facebook.com"
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "url": "https://twitter.com"
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "url": "https://instagram.com"
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "url": "https://tiktok.com"
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "url": "https://amazon.com"
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "url": "https://wikipedia.org"
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "url": "https://openai.com"
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "url": "https://play.google.com/store"
+    }
+  ]
+}
