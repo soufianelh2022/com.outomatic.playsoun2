@@ -1,4 +1,3 @@
-
 {
   "sdkkey": "QII74VqNKthnmHirpqqZGK8Jc9P2P_OFnlwWRqIbR8xlmupW0CDRrFC46xOyGXqe8dmt2pHG305BK9KusBV1SR",
   "reward": "45fc0aab9c36c01e",
@@ -7,43 +6,43 @@
 
   "banners": [
     {
-      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "image": "https://raw.githubusercontent.com/soufianelh2022/com.outomatic.playsoun2/main/ad%201.jpg",
       "url": "https://google.com"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "image": "https://raw.githubusercontent.com/soufianelh2022/com.outomatic.playsoun2/main/ad%202.jpg",
       "url": "https://youtube.com"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "image": "https://raw.githubusercontent.com/soufianelh2022/com.outomatic.playsoun2/main/ad%203.jpg",
       "url": "https://facebook.com"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "image": "https://raw.githubusercontent.com/soufianelh2022/com.outomatic.playsoun2/main/ad%204.jpg",
       "url": "https://twitter.com"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "image": "https://raw.githubusercontent.com/soufianelh2022/com.outomatic.playsoun2/main/AD%205.jpg",
       "url": "https://instagram.com"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "image": "https://raw.githubusercontent.com/soufianelh2022/com.outomatic.playsoun2/main/ad%206.jpg",
       "url": "https://tiktok.com"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "image": "https://raw.githubusercontent.com/soufianelh2022/com.outomatic.playsoun2/main/ad%207.jpg",
       "url": "https://amazon.com"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "image": "https://raw.githubusercontent.com/soufianelh2022/com.outomatic.playsoun2/main/ad9.jpg",
       "url": "https://wikipedia.org"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "image": "https://raw.githubusercontent.com/soufianelh2022/com.outomatic.playsoun2/main/ad%201.jpg",
       "url": "https://openai.com"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571874_1280.jpg",
+      "image": "https://raw.githubusercontent.com/soufianelh2022/com.outomatic.playsoun2/main/ad%202.jpg",
       "url": "https://play.google.com/store"
     }
   ]
